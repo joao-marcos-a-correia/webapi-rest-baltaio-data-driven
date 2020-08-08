@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaom\\Desktop\\CURSO_BALTA_WEBAPI\\Shop\\Shop.csproj": {}
+    "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaom\\Desktop\\CURSO_BALTA_WEBAPI\\Shop\\Shop.csproj": {
+    "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaom\\Desktop\\CURSO_BALTA_WEBAPI\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\joaom\\Desktop\\CURSO_BALTA_WEBAPI\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaom\\Desktop\\CURSO_BALTA_WEBAPI\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
