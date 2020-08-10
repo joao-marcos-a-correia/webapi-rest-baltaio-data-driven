@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {}
+    "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {
+    "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\jcorreia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\joaom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jcorreia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,9 +41,39 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.9, )"
             }
           },
           "imports": [
