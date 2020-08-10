@@ -21,7 +21,7 @@ namespace Shop.Models
 
         [Required(ErrorMessage = "Esse campo é obrigatorio")]
         [Range(1, int.MaxValue, ErrorMessage = "Categoria Invalida")]
-        public decimal CategoryId { get; set; }
+        public int CategoryId { get; set; }
 
         public Category Category { get; set; } 
 
