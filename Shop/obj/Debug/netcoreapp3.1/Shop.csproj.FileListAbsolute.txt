@@ -143,5 +143,10 @@ C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debu
 C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jcorreia\Documents\GitHub\webapi-rest-baltaio-data-driven\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
