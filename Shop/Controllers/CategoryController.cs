@@ -11,12 +11,13 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Shop.Controllers
 {
-    [Route("Categories")]
+    [Route("v1/Categories")]
     public class CategoryController : ControllerBase
     {
         [HttpGet]
         [Route("")]
         [AllowAnonymous]
+        [ResponseCache(VaryByHeader = "User-Agent", Location = ResponseCacheLocation.Any, Duration = 30)]
         public async Task<ActionResult<List<Category>>> Get(
             [FromServices] DataContext context
             )
