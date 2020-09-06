@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {}
+    "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {
+    "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\jcorreia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jcorreia\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jcorreia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joaom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
