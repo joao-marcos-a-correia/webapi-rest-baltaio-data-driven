@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/UnqLvwfyYo232L0IqKLO6ald03R8PsoM7Iy3fQbsmIn/8r8T/z0QF8R1zxe9oY4ZcWidDU4ERoRH/LwZzY5Ww==",
+  "dgSpecHash": "vXoJSG0FlEQfDy6nx1lenFsC/ToPPuoRj4DUEZC3D+DLu/8NyfNWmSCoLod63EfdIiPcN6PHA4FkZSIYM2H7gQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaom\\.nuget\\packages\\libuv\\1.9.2\\libuv.1.9.2.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.0.0\\microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
@@ -49,7 +49,6 @@
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.net.sdk.functions\\3.0.9\\microsoft.net.sdk.functions.3.0.9.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.app\\1.1.9\\microsoft.netcore.app.1.1.9.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.dotnethost\\1.1.9\\microsoft.netcore.dotnethost.1.1.9.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\1.1.9\\microsoft.netcore.dotnethostpolicy.1.1.9.nupkg.sha512",
@@ -148,7 +147,6 @@
     "C:\\Users\\joaom\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.linq.parallel\\4.3.0\\system.linq.parallel.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.linq.queryable\\4.3.0\\system.linq.queryable.4.3.0.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.net.http\\4.3.3\\system.net.http.4.3.3.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
@@ -172,7 +170,7 @@
     "C:\\Users\\joaom\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.runtime.caching\\4.5.0\\system.runtime.caching.4.5.0.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
@@ -215,11 +213,7 @@
     "C:\\Users\\joaom\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\joaom\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }
