@@ -648,6 +648,13 @@
           "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll": {}
         }
       },
+      "Microsoft.NET.Sdk.Functions/3.0.9": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.Sdk.Functions.props": {},
+          "build/Microsoft.NET.Sdk.Functions.targets": {}
+        }
+      },
       "Microsoft.NETCore.App/1.1.9": {
         "type": "package",
         "dependencies": {
@@ -4198,6 +4205,33 @@
         "lib/netstandard2.0/Microsoft.Net.Http.Headers.xml",
         "microsoft.net.http.headers.2.2.0.nupkg.sha512",
         "microsoft.net.http.headers.nuspec"
+      ]
+    },
+    "Microsoft.NET.Sdk.Functions/3.0.9": {
+      "sha512": "bkTLPBezGR1riv/tDAOMtgIFpLUDs6Plv/8ZKBIAuduXT0bDZ10NCqhJ9goxmAcnebYSwjzbKfRMbtCVExPNIg==",
+      "type": "package",
+      "path": "microsoft.net.sdk.functions/3.0.9",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/ExtensionsMetadataGeneratorVersion.props",
+        "build/Microsoft.NET.Sdk.Functions.Build.props",
+        "build/Microsoft.NET.Sdk.Functions.Build.targets",
+        "build/Microsoft.NET.Sdk.Functions.Publish.ZipDeploy.targets",
+        "build/Microsoft.NET.Sdk.Functions.Publish.props",
+        "build/Microsoft.NET.Sdk.Functions.Publish.targets",
+        "build/Microsoft.NET.Sdk.Functions.Version.props",
+        "build/Microsoft.NET.Sdk.Functions.props",
+        "build/Microsoft.NET.Sdk.Functions.targets",
+        "microsoft.net.sdk.functions.3.0.9.nupkg.sha512",
+        "microsoft.net.sdk.functions.nuspec",
+        "tools/netcoreapp3.1/Microsoft.NET.Sdk.Functions.Generator.dll",
+        "tools/netcoreapp3.1/Microsoft.NET.Sdk.Functions.Generator.runtimeconfig.json",
+        "tools/netcoreapp3.1/Microsoft.NET.Sdk.Functions.MSBuild.dll",
+        "tools/netcoreapp3.1/Microsoft.NET.Sdk.Functions.dll",
+        "tools/netcoreapp3.1/Mono.Cecil.dll",
+        "tools/netcoreapp3.1/Newtonsoft.Json.dll"
       ]
     },
     "Microsoft.NETCore.App/1.1.9": {
@@ -10297,6 +10331,7 @@
       "Microsoft.EntityFrameworkCore.InMemory >= 3.1.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.6",
       "Microsoft.Extensions.Caching.Abstractions >= 3.1.6",
+      "Microsoft.NET.Sdk.Functions >= 3.0.9",
       "Microsoft.NETCore.App >= 1.1.9",
       "Swashbuckle.AspNetCore >= 5.5.1"
     ]
@@ -10361,6 +10396,10 @@
           "Microsoft.Extensions.Caching.Abstractions": {
             "target": "Package",
             "version": "[3.1.6, )"
+          },
+          "Microsoft.NET.Sdk.Functions": {
+            "target": "Package",
+            "version": "[3.0.9, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

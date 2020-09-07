@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a+y5SFUMoMx5CxggfiT/u3zwhRAA93PHZ+B7TaSSnA9/4shbI7vq56MOS7jbCXjLQtxE63/5bUWRn3TV/fPFsw==",
+  "dgSpecHash": "/UnqLvwfyYo232L0IqKLO6ald03R8PsoM7Iy3fQbsmIn/8r8T/z0QF8R1zxe9oY4ZcWidDU4ERoRH/LwZzY5Ww==",
   "success": true,
   "projectFilePath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.net.sdk.functions\\3.0.9\\microsoft.net.sdk.functions.3.0.9.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.app\\1.1.9\\microsoft.netcore.app.1.1.9.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.dotnethost\\1.1.9\\microsoft.netcore.dotnethost.1.1.9.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\1.1.9\\microsoft.netcore.dotnethostpolicy.1.1.9.nupkg.sha512",
