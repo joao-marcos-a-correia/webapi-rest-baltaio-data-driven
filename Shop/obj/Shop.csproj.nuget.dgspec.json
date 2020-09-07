@@ -13,6 +13,7 @@
         "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\joaom\\Documents\\GitHub\\webapi-rest-baltaio-data-driven\\Shop\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "configFilePaths": [
           "C:\\Users\\joaom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
